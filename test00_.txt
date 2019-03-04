@@ -21,3 +21,6 @@
 
 
 "<head></head><body char='euc-kr' >test</body>".indexOf(">",13);
+=======
+9 번째 커밋 브랜치 처음 생성후 3번째 커밋
+>>>>>>> decafad... 9 번째 커밋 브랜치 처음 생성후 3번째 커밋
