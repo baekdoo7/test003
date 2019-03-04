@@ -1,6 +1,2 @@
-1 번째 커밋  브랜치 없음
+2 번째 커밋  브랜치 없음
 
-127.0.0.1       www.adop-test.com
-255.255.255.255 broadcasthost
-::1             localhost
-110.45.189.81   www.82cook.com
