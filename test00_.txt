@@ -14,3 +14,10 @@
 7 번째 커밋  브랜치 후 2번째 마스터 업데이트
 >>>>>>> parent of 74889b5... 8번째 커밋 브랜치 후 3번째 마스터 없데이트
 >>>>>>> 브랜치테스트-1번째
+
+
+
+"<head></head><body char='euc-kr' >test</body>".indexOf("<body");
+
+
+"<head></head><body char='euc-kr' >test</body>".indexOf(">",13);
